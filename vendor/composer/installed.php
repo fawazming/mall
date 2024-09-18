@@ -1394,15 +1394,6 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'srmklive/paypal' => array(
-            'pretty_version' => '3.0.26',
-            'version' => '3.0.26.0',
-            'reference' => '9f0768d1b827b938ef66385f2ac41136d65701de',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../srmklive/paypal',
-            'aliases' => array(),
-            'dev_requirement' => false,
-        ),
         'stripe/stripe-php' => array(
             'pretty_version' => 'v10.21.0',
             'version' => '10.21.0.0',

@@ -33,8 +33,6 @@ use PayPal\Api\Transaction;
 use PayPal\Auth\OAuthTokenCredential;
 // use PayPal\Rest\ApiContext;
 
-use Srmklive\PayPal\Services\PayPal as PayPalClient;
-
 use App\Models\ProductCoupon;
 use App\Models\PurchasedProducts;
 use App\Models\User;
